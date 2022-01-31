@@ -2,9 +2,9 @@
 
 ## I'm a Software Developer student at ROC van Flevoland!
 
-- 📑 Learning Wordpress and Unity
-- 👨‍🎓 Intern at SenS Online Marketing
-- 🖥️ Also did an internship at BIT
+- 🤓 Currently on an internship at SenS Online Solutions 
+- 💭 Working with WPBakery and Impreza
+- 🔚 Also did an internship at BIT Amsterdam
 
 ### Connect with me:
 
