@@ -3,7 +3,7 @@
 ## I'm a Software Developer student at ROC van Flevoland!
 
 - 🤓 Currently on an internship at SenS Online Solutions 
-- 💭 Working with WPBakery and Impreza
+- 💭 Working with WordPress
 - 🔚 Also did an internship at BIT Amsterdam
 
 ### Connect with me:
@@ -35,6 +35,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/unity/unity.png" />
+<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress.png" />
 
 <br />
 
