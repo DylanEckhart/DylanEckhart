@@ -1,14 +1,14 @@
 ### Hi there! I'm [Dylan](https://dylaneckhart.netlify.app) 👋 
 
-## I'm a Software Developer student at ROC van Flevoland!
+## I'm a Software Developer student.
 
-- 🤓 Currently on an internship at SenS Online Solutions 
-- 💭 Working with WordPress
-- 🔚 Also did an internship at BIT Amsterdam
+- Currently on an internship at SenS Online Solutions 
+- Second year Software Developer student at ROC van Flevoland
+- Currently learning React
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dylaneckhart.netlify.app)
+[<img align="left" alt="Website" width="22px" src="https://fontawesome.com/icons/globe?s=solid.svg" />](https://dylaneckhart.netlify.app)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dylan-eckhart-28718b17a/)
 [<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discord.com/users/275692907707760651)
 
