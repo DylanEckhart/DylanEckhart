@@ -10,7 +10,6 @@
 
 [<img align="left" alt="Website" width="22px" color="white" src="https://github.com/FortAwesome/Font-Awesome/blob/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/solid/globe.svg" />](https://dylaneckhart.netlify.app)
 [<img align="left" alt="LinkedIn" width="22px" color="white" src="https://github.com/FortAwesome/Font-Awesome/blob/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/brands/linkedin.svg />](https://www.linkedin.com/in/dylan-eckhart-28718b17a/)
-[<img align="left" alt="Discord" width="22px" color="white" src="https://github.com/FortAwesome/Font-Awesome/blob/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/brands/discord.svg" />](https://discord.com/users/275692907707760651)
 
 <br />
 
