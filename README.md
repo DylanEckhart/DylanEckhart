@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://fontawesome.com/icons/globe?s=solid.svg" />](https://dylaneckhart.netlify.app)
+[<img align="left" alt="Website" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/solid/globe.svg" />](https://dylaneckhart.netlify.app)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dylan-eckhart-28718b17a/)
 [<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discord.com/users/275692907707760651)
 
