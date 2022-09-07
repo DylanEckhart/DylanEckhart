@@ -2,14 +2,8 @@
 
 ## I'm a Software Developer student.
 
-- Currently on an internship at SenS Online Solutions 
-- Second year Software Developer student at ROC van Flevoland
-- Currently learning React
-
-### Connect with me:
-
-[<img align="left" alt="Website" width="22px" color="white" src="https://github.com/FortAwesome/Font-Awesome/blob/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/solid/globe.svg" />](https://dylaneckhart.netlify.app)
-[<img align="left" alt="LinkedIn" width="22px" color="white" src="https://github.com/FortAwesome/Font-Awesome/blob/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/brands/linkedin.svg />](https://www.linkedin.com/in/dylan-eckhart-28718b17a/)
+- Third year Software Developer student at ROC van Flevoland
+- Busy with finishing my exams to graduate
 
 <br />
 
