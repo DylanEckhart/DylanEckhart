@@ -16,6 +16,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/csharp/csharp.png" />
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,mysql,php,java,python,cs)](https://skillicons.dev)
+
 
 <br />
 
