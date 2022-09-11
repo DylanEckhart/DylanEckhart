@@ -13,8 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,git,unity,xd)](https://skillicons.dev)
 
-<br />
-
 ### Github stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylaneckhart&show_icons=true&theme=radical" alt="My github stats" />
