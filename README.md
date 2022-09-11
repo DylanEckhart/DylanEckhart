@@ -9,8 +9,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,java,python,cs)](https://skillicons.dev)
 
-<br />
-
 ### Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,git,unity,xd)](https://skillicons.dev)
