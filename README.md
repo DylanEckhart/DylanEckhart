@@ -8,8 +8,6 @@
 ### Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,mysql,php,java,python,cs)](https://skillicons.dev)
-
-
 <br />
 
 ### Tools:
