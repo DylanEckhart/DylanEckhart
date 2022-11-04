@@ -1,9 +1,8 @@
 ### Hi there! I'm [Dylan](https://dylaneckhart.netlify.app) 👋 
 
-## I'm a Software Developer student.
+## I'm a Junior Software Developer.
 
-- Third year Software Developer student at ROC van Flevoland
-- Busy with finishing my exams to graduate
+- Graduated as Junior Software Developer at the ROC van Flevoland
 
 ### Languages:
 
