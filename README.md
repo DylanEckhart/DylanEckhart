@@ -4,11 +4,11 @@
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,java,python,cs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,php,python)](https://skillicons.dev)
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,git,unity,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,git,figma,)](https://skillicons.dev)
 
 ### Github stats:
 
