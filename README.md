@@ -4,7 +4,7 @@
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,java,python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,java,python,cs,tailwind)](https://skillicons.dev)
 
 ### Tools:
 
