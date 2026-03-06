@@ -1,6 +1,6 @@
 ### Hi there! I'm [Dylan](https://dylaneckhart.netlify.app) 👋 
 
-## I'm a WordPress Developer from Drachten, currently working at Scrolla!.
+## I'm a WordPress Developer from Drachten, currently working at Scrolla!
 
 ### Languages:
 
