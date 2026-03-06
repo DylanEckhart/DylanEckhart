@@ -9,7 +9,3 @@
 ### Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,git,figma,gitlab)](https://skillicons.dev)
-
-### Github stats:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dylaneckhart&show_icons=true&theme=radical" alt="My github stats" />
