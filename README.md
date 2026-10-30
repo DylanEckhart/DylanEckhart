@@ -8,4 +8,4 @@
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,git,figma,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,git,figma,gitlab,n8n)](https://skillicons.dev)
